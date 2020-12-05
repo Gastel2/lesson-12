@@ -1,0 +1,43 @@
+.container{
+	border: 1px solid;
+	display:flex;
+	flex-direction:row;
+    justify-content: space-around;
+	flex-wrap:
+}
+.Captain_America{
+	background-color:#70061e; 
+	border-radius:5px; 
+	width:270px;
+	height:140px;
+	background-image:url(122.png);
+	padding-left:100px;
+}
+.Iron_Man{
+	background-color:#b52d3f;
+	border-radius:5px; 
+	width:270px;
+	height:140px;
+	background-image:url(287px-Залізна_людина_КВМ.png);
+	padding-left:100px;
+}
+.Sokol_eyes{
+	background-color:#1a8a45; 
+	border-radius:5px; 
+	width:270px;
+	height:140px;
+	background-image:url(3.png);
+	padding-left:100px;
+	
+}
+.Black_Widow{
+	background-color:#9849b3; 
+	border-radius:5px; 
+	width:270px;
+	height:140px;
+	background-image:url(123.png);
+	padding-left:100px;
+}
+
+
+
